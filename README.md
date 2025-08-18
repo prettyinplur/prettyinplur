@@ -1,2 +1,3 @@
 awoooo
-https://images-ext-1.discordapp.net/external/fw_NJUNyH4aSlm8RBNiR-FGtuJMlHgFVc18v4MyoRnU/https/media.tenor.com/OoTU2S1oegUAAAPo/im-so-fucking-scared-squid-game-edit.mp4
+<img width="100" height="55" alt="image" src="https://github.com/user-attachments/assets/e1ff848b-ad04-4571-90f7-c5ca1c03de6b" />
+
